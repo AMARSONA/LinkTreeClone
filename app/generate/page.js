@@ -139,7 +139,7 @@ const Generate = () => {
               <input value={desc || ""} onChange={e => { setdesc(e.target.value) }} className='bg-white px-4 py-2  my-2 focus:outline-pink-500 rounded-full' type="text" placeholder='Enter description' />
               <div className="flex">
                 <button disabled={pic == "" || handle == "" || links[0].linktext == ""} onClick={() => { submitLinks() }} className='disabled:bg-slate-500 disabled:cursor-auto cursor-pointer rounded-3xl p-5 py-2 mx-2 w-fit my-5 bg-slate-900 text-white font-bold'>Create Your BitTree</button>
-                <button hidden={bitTreepage ==false} onClick={() => router.push(`/${handle}`)} className='disabled:bg-slate-500 cursor-pointer rounded-3xl p-5 py-2 mx-2 w-fit my-5 bg-slate-900 text-white font-bold'>Here's Your BitTree</button>
+                <button hidden={bitTreepage ==false} onClick={() => router.push(`/${handle}`)} className='disabled:bg-slate-500 cursor-pointer rounded-3xl p-5 py-2 mx-2 w-fit my-5 bg-slate-900 text-white font-bold'>Here&lsquo;s Your BitTree</button>
               </div>
 
             </div>
