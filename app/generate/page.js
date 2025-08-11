@@ -8,7 +8,7 @@ import { useRouter } from "next/navigation";
 
 
 
-const Generate = () => {
+const GenerateContent = () => {
 
   const router = useRouter()
 
@@ -158,7 +158,7 @@ const Generate = () => {
 export default function Generate() {
   return (
     <Suspense fallback={<div>Loading...</div>}>
-      <Generate />
+      <GenerateContent />
     </Suspense>
   );
 }
