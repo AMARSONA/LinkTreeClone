@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import { useState } from 'react';
+import { useState, Suspense } from 'react';
 import { ToastContainer, toast } from "react-toastify";
 import { useSearchParams } from 'next/navigation';
 import 'react-toastify/dist/ReactToastify.css';
