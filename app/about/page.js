@@ -6,7 +6,7 @@ const About = () => {
             <div className='bg-red-800 w-[50vw] h-[400px] flex flex-col justify-between rounded-2xl border-2 relative top-[70px] px-5'>
                 <h1 className="text-7xl font-semibold mb-4 text-center">Welcome to Amar's LinkTree</h1>
                 <p className="text-lg mb-6 text-center">
-                    Amar's LinkTree is your all-in-one platform for sharing everything that matters — in one simple, beautiful link. Whether you’re a creator, entrepreneur, or business, BitLink helps you connect your audience to your social media, websites, stores, and more — all from a single, personalized page.
+                    Amar&lsquo;s LinkTree is your all-in-one platform for sharing everything that matters — in one simple, beautiful link. Whether you&lsquo;re a creator, entrepreneur, or business, BitLink helps you connect your audience to your social media, websites, stores, and more — all from a single, personalized page.
 
                     With a customizable profile, unlimited links, and powerful analytics, BitLink makes it effortless to showcase your brand and track your impact. No more juggling multiple URLs — just one link that works everywhere: Instagram bio, YouTube description, TikTok profile, email signatures, and beyond.
 
