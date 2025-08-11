@@ -4,7 +4,7 @@ const About = () => {
 
         <section className="container flex justify-center items-center bg-amber-900 min-w-[99vw] min-h-screen text-white mx-auto px-8 md:px-4 py-8">
             <div className='bg-red-800 w-[50vw] h-[400px] flex flex-col justify-between rounded-2xl border-2 relative top-[70px] px-5'>
-                <h1 className="text-7xl font-semibold mb-4 text-center">Welcome to Amar's LinkTree</h1>
+                <h1 className="text-7xl font-semibold mb-4 text-center">Welcome to Amar&lsquo;s LinkTree</h1>
                 <p className="text-lg mb-6 text-center">
                     Amar&lsquo;s LinkTree is your all-in-one platform for sharing everything that matters — in one simple, beautiful link. Whether you&lsquo;re a creator, entrepreneur, or business, BitLink helps you connect your audience to your social media, websites, stores, and more — all from a single, personalized page.
 
